@@ -2,3 +2,5 @@
 Git is free software.
 test
 add or no
+
+remote origin
